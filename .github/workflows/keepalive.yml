@@ -3,7 +3,7 @@ name: Koyeb keepalive
 on:
   schedule:
     # UTC (国内 UTC+8)
-    - cron: '21 4 */3 * *'
+    - cron: '21 14 */3 * *'
   workflow_dispatch:
 
 jobs:
