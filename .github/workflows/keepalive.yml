@@ -1,4 +1,4 @@
-name: Koyeb keepalive
+name: live
 
 on:
   schedule:
